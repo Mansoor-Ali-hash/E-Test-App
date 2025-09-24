@@ -1,0 +1,160 @@
+1.	Which of these is an input device?
+Printer | Keyboard | Monitor | Speaker
+Keyboard
+2.	What does CPU stand for?
+Central Processing Unit | Central Power Utility | Computer Processing User | Control Program Unit
+Central Processing Unit
+3.	Which memory is volatile?
+ROM | Hard Disk | RAM | DVD
+RAM
+4.	Which key is used to refresh a page in Windows?
+F2 | F5 | F8 | F10
+F5
+5.	Shortcut key to copy text?
+Ctrl + X | Ctrl + V | Ctrl + C | Ctrl + A
+Ctrl + C
+6.	The full form of UPS is:
+Unplugged Power System | Uninterrupted Power Supply | Universal Power Source | Utility Power System
+Uninterrupted Power Supply
+7.	In MS Word, which shortcut selects all text?
+Ctrl + S | Ctrl + A | Ctrl + C | Ctrl + Z
+Ctrl + A
+8.	Which extension is correct for PowerPoint files?
+.docx | .pptx | .xlsx | .txt
+.pptx
+9.	Which key is used to rename a file?
+F1 | F2 | F3 | F4
+F2
+10.	In Excel, the formula =SUM(A1:A5) will:
+Multiply values | Add values | Divide values | Average values
+Add values
+11.	Which one is not an operating system?
+Windows | Linux | Google | macOS
+Google
+12.	MS Word file extension (latest):
+.doc | .docx | .txt | .xls
+.docx
+13.	Which key combination is used to paste?
+Ctrl + V | Ctrl + P | Ctrl + C | Ctrl + Z
+Ctrl + V
+14.	In PowerPoint, which view shows slides in sequence as thumbnails?
+Normal View | Slide Sorter View | Reading View | Notes Page
+Slide Sorter View
+15.	Excel is mainly used for:
+Word Processing | Spreadsheets | Presentations | Drawing
+Spreadsheets
+16.	Which company developed MS Office?
+Apple | Microsoft | Google | IBM
+Microsoft
+17.	Shortcut for Save As in MS Word:
+F1 | F5 | F12 | Shift + F2
+F12
+18.	In computers, 1 byte = ?
+4 bits | 8 bits | 16 bits | 32 bits
+8 bits
+19.	Which PowerPoint feature controls how slides appear in sequence?
+Animations | Transitions | Slide Master | Notes
+Transitions
+20.	What does “Cut” shortcut key do (Ctrl + X)?
+Copy text | Remove text and copy to clipboard | Delete permanently | None
+Remove text and copy to clipboard
+21.	Storage device example:
+Pen drive | Mouse | Monitor | Keyboard
+Pen drive
+22.	What is the default file extension of Excel 2016+?
+.xls | .xlsx | .csv | .docx
+.xlsx
+23.	To undo in MS Word:
+Ctrl + U | Ctrl + Z | Ctrl + Y | Ctrl + X
+Ctrl + Z
+24.	Which function in Excel returns the average?
+SUM | AVERAGE | COUNT | MAX
+AVERAGE
+25.	Which MS Office application is used for presentations?
+Excel | Word | PowerPoint | Access
+PowerPoint
+26.	What is the main function of an Operating System?
+Gaming | Managing hardware/software resources | Virus protection | Editing photos
+Managing hardware/software resources
+27.	In Word, to make text bold:
+Ctrl + I | Ctrl + B | Ctrl + U | Ctrl + D
+Ctrl + B
+28.	In Excel, a cell is identified by:
+Row Number only | Column Letter only | Row Number + Column Letter | None
+Row Number + Column Letter
+29.	Which MS Office program is database software?
+Access | Word | Excel | PowerPoint
+Access
+30.	Shortcut to print a document:
+Ctrl + S | Ctrl + P | Ctrl + V | Ctrl + O
+Ctrl + P
+31. MS Word is used for:
+Presentations | Word Processing | Spreadsheets | Graphic Design
+Word Processing
+
+32. Shortcut key to save a document in MS Word is:
+Ctrl + X | Ctrl + P | Ctrl + S | Ctrl + Z
+Ctrl + S
+
+33. Which of the following is permanent memory?
+RAM | ROM | Cache | Register
+ROM
+
+34. Which feature in PowerPoint allows objects to move during slideshow?
+Themes | Animations | Slide Master | Headers
+Animations
+
+35. The result of =AVERAGE(2,4,6) in Excel is:
+2 | 3 | 4 | 6
+4
+
+36. A scanner is an example of:
+Input Device | Output Device | Storage Device | Processing Device
+Input Device
+
+37. The default file extension of PowerPoint 2016 is:
+.ppt | .pptx | .docx | .xlsx
+.pptx
+
+38. Shortcut key for Cut in MS Word is:
+Ctrl + C | Ctrl + V | Ctrl + X | Ctrl + P
+Ctrl + X
+
+39. Hard Disk is an example of:
+Primary Storage | Secondary Storage | Cache Memory | ROM
+Secondary Storage
+
+40. Excel is capable of performing:
+Only Word Processing | Only Drawing | Calculations and Data Analysis | Only Database Storage
+Calculations and Data Analysis
+41.	What is the function of a keyboard?
+Input text | Output text | Store data | Display graphics
+Input text
+42.	Define RAM and ROM.
+RAM is temporary memory, ROM is permanent memory | Both are temporary | Both are permanent | None
+RAM is temporary memory, ROM is permanent memory
+43.	What is a spreadsheet used for?
+Word Processing | Data Calculation and Storage | Image Editing | Internet Browsing
+Data Calculation and Storage
+44.	Which of these are features of MS Word?
+Text Editing | Slide Animations | Calculations | Compiling Code
+Text Editing
+45.	What is Slide Master in PowerPoint?
+Controls slide design | Controls animations | Stores data | Exits slideshow
+Controls slide design
+46.	Which is a difference between primary and secondary memory?
+Primary is fast, Secondary is slower | Primary is external, Secondary is inside CPU | Primary is permanent, Secondary is volatile | Both are the same
+Primary is fast, Secondary is slower
+47.	What is a cell reference in Excel?
+Address of a cell | Content of a cell | Format of a cell | None
+Address of a cell
+48.	Define Operating System.
+Manages hardware and software | Only used for browsing | A gaming tool | Used for movies
+Manages hardware and software
+49.	Which are MS Office applications?
+Word | Excel | PowerPoint | All of these
+All of these
+50.	What is the use of Ctrl + Z and Ctrl + Y?
+Undo and Redo | Save and Print | Copy and Paste | Cut and Paste
+Undo and Redo
+
