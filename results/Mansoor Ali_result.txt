@@ -1,10 +1,207 @@
 Result Card
-Name: Mansoor Ali
-Date: 2025-09-23 20:33:45
-Score: 1 / 1
+Name: mansoor ali
+Category: DIT
+Date: 2025-09-24 12:09:25
+Score: 28 / 50
 
 Question-wise Details:
-Q1. 1.	Which of these is an input device?
-Your Answer: Keyboard
+Q1. OAP:1.	Which of these is an input device?
+Your Answer: Monitor
 Correct Answer: Keyboard
+
+Q2. OAP: 2.	What does CPU stand for?
+Your Answer: Central Power Utility
+Correct Answer: Central Processing Unit
+
+Q3. 3.	Which memory is volatile?
+Your Answer: ROM
+Correct Answer: RAM
+
+Q4. 4.	Which key is used to refresh a page in Windows?
+Your Answer: F5
+Correct Answer: F5
+
+Q5. 5.	Shortcut key to copy text?
+Your Answer: Ctrl + C
+Correct Answer: Ctrl + C
+
+Q6. 6.	The full form of UPS is:
+Your Answer: Universal Power Source
+Correct Answer: Uninterrupted Power Supply
+
+Q7. 7.	In MS Word, which shortcut selects all text?
+Your Answer: Ctrl + A
+Correct Answer: Ctrl + A
+
+Q8. 8.	Which extension is correct for PowerPoint files?
+Your Answer: .xlsx
+Correct Answer: .pptx
+
+Q9. 9.	Which key is used to rename a file?
+Your Answer: F4
+Correct Answer: F2
+
+Q10. 10.	In Excel, the formula =SUM(A1:A5) will:
+Your Answer: Divide values
+Correct Answer: Add values
+
+Q11. 11.	Which one is not an operating system?
+Your Answer: Google
+Correct Answer: Google
+
+Q12. 12.	MS Word file extension (latest):
+Your Answer: .docx
+Correct Answer: .docx
+
+Q13. 13.	Which key combination is used to paste?
+Your Answer: Ctrl + V
+Correct Answer: Ctrl + V
+
+Q14. 14.	In PowerPoint, which view shows slides in sequence as thumbnails?
+Your Answer: Reading View
+Correct Answer: Slide Sorter View
+
+Q15. 15.	Excel is mainly used for:
+Your Answer: Presentations
+Correct Answer: Spreadsheets
+
+Q16. 16.	Which company developed MS Office?
+Your Answer: Microsoft
+Correct Answer: Microsoft
+
+Q17. 17.	Shortcut for Save As in MS Word:
+Your Answer: F12
+Correct Answer: F12
+
+Q18. 18.	In computers, 1 byte = ?
+Your Answer: 8 bits
+Correct Answer: 8 bits
+
+Q19. 19.	Which PowerPoint feature controls how slides appear in sequence?
+Your Answer: Transitions
+Correct Answer: Transitions
+
+Q20. 20.	What does “Cut” shortcut key do (Ctrl + X)?
+Your Answer: Remove text and copy to clipboard
+Correct Answer: Remove text and copy to clipboard
+
+Q21. 21.	Storage device example:
+Your Answer: Pen drive
+Correct Answer: Pen drive
+
+Q22. 22.	What is the default file extension of Excel 2016+?
+Your Answer: .xlsx
+Correct Answer: .xlsx
+
+Q23. 23.	To undo in MS Word:
+Your Answer: Ctrl + Z
+Correct Answer: Ctrl + Z
+
+Q24. 24.	Which function in Excel returns the average?
+Your Answer: AVERAGE
+Correct Answer: AVERAGE
+
+Q25. 25.	Which MS Office application is used for presentations?
+Your Answer: PowerPoint
+Correct Answer: PowerPoint
+
+Q26. 26.	What is the main function of an Operating System?
+Your Answer: Managing hardware/software resources
+Correct Answer: Managing hardware/software resources
+
+Q27. 27.	In Word, to make text bold:
+Your Answer: Ctrl + B
+Correct Answer: Ctrl + B
+
+Q28. 28.	In Excel, a cell is identified by:
+Your Answer: Row Number + Column Letter
+Correct Answer: Row Number + Column Letter
+
+Q29. 29.	Which MS Office program is database software?
+Your Answer: Excel
+Correct Answer: Access
+
+Q30. 30.	Shortcut to print a document:
+Your Answer: Ctrl + P
+Correct Answer: Ctrl + P
+
+Q31. 31. MS Word is used for:
+Your Answer: Presentations
+Correct Answer: Word Processing
+
+Q32. 32. Shortcut key to save a document in MS Word is:
+Your Answer: Ctrl + S
+Correct Answer: Ctrl + S
+
+Q33. 33. Which of the following is permanent memory?
+Your Answer: RAM
+Correct Answer: ROM
+
+Q34. 34. Which feature in PowerPoint allows objects to move during slideshow?
+Your Answer: Slide Master
+Correct Answer: Animations
+
+Q35. 35. The result of =AVERAGE(2,4,6) in Excel is:
+Your Answer: 4
+Correct Answer: 4
+
+Q36. 36. A scanner is an example of:
+Your Answer: Input Device
+Correct Answer: Input Device
+
+Q37. 37. The default file extension of PowerPoint 2016 is:
+Your Answer: .pptx
+Correct Answer: .pptx
+
+Q38. 38. Shortcut key for Cut in MS Word is:
+Your Answer: Ctrl + P
+Correct Answer: Ctrl + X
+
+Q39. 39. Hard Disk is an example of:
+Your Answer: Cache Memory
+Correct Answer: Secondary Storage
+
+Q40. 40. Excel is capable of performing:
+Your Answer: Only Drawing
+Correct Answer: Calculations and Data Analysis
+
+Q41. 41.	What is the function of a keyboard?
+Your Answer: Output text
+Correct Answer: Input text
+
+Q42. 42.	Define RAM and ROM.
+Your Answer: RAM is temporary memory, ROM is permanent memory
+Correct Answer: RAM is temporary memory, ROM is permanent memory
+
+Q43. 43.	What is a spreadsheet used for?
+Your Answer: Word Processing
+Correct Answer: Data Calculation and Storage
+
+Q44. 44.	Which of these are features of MS Word?
+Your Answer: Slide Animations
+Correct Answer: Text Editing
+
+Q45. 45.	What is Slide Master in PowerPoint?
+Your Answer: Controls slide design
+Correct Answer: Controls slide design
+
+Q46. 46.	Which is a difference between primary and secondary memory?
+Your Answer: Primary is fast, Secondary is slower
+Correct Answer: Primary is fast, Secondary is slower
+
+Q47. 47.	What is a cell reference in Excel?
+Your Answer: Format of a cell
+Correct Answer: Address of a cell
+
+Q48. 48.	Define Operating System.
+Your Answer: Used for movies
+Correct Answer: Manages hardware and software
+
+Q49. 49.	Which are MS Office applications?
+Your Answer: Excel
+Correct Answer: All of these
+
+Q50. 50.	What is the use of Ctrl + Z and Ctrl + Y?
+Your Answer: Undo and Redo
+Correct Answer: Undo and Redo
 

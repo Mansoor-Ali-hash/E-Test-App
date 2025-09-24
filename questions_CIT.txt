@@ -1,7 +1,7 @@
-1.	Which of these is an input device?
+OAP:1.	Which of these is an input device?
 Printer | Keyboard | Monitor | Speaker
 Keyboard
-2.	What does CPU stand for?
+OAP: 2.	What does CPU stand for?
 Central Processing Unit | Central Power Utility | Computer Processing User | Control Program Unit
 Central Processing Unit
 3.	Which memory is volatile?
